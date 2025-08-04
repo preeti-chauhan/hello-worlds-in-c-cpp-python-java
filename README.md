@@ -145,10 +145,11 @@ git push -u origin main
 
 ### If remote is already set
 
+```bash
 git add .
 git commit -m "Your message"
 git push origin main
-
+```
 ---
 
 ## Quick Reference
