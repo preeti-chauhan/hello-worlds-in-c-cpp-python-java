@@ -143,6 +143,11 @@ git push -u origin main
 
 > Replace `YOUR_USERNAME` with your actual GitHub username.
 
+### If remote is already set
+git add .
+git commit -m "Your message"
+git push origin main
+
 ---
 
 ## Quick Reference
