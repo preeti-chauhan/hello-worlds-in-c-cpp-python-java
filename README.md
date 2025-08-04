@@ -21,6 +21,28 @@ hello-worlds-c-cpp-python-java/
 
 ---
 
+# Development Environment Setup
+
+## Create Dev Directory
+
+Create a folder named `Dev` in your home directory to organize your projects:
+
+```bash
+mkdir -p ~/Dev
+```
+
+## Add Alias for Quick Navigation
+
+Add an alias to your `.zshrc` file so you can jump to the `Dev` folder with a simple command:
+
+```bash
+echo "alias dev='cd ~/Dev'" >> ~/.zshrc
+source ~/.zshrc
+```
+
+Now, typing `dev` in your terminal will take you directly to the `~/Dev` directory.
+
+
 ## Setup Script (Optional)
 
 Run this script to auto-generate all Hello World files:
