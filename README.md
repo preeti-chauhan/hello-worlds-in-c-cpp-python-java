@@ -113,7 +113,7 @@ cd ..
 
 ```bash
 cd Python
-python hello.py
+python3 hello.py
 cd ..
 ```
 
