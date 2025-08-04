@@ -42,8 +42,17 @@ source ~/.zshrc
 
 Now, typing `dev` in your terminal will take you directly to the `~/Dev` directory.
 
+## Setup Conda Environment for Development
 
-## Setup Script (Optional)
+Create and activate a Conda environment for the development tools:
+
+```bash
+conda create -n dev_env
+conda activate dev_env
+```
+---
+
+## Setup Script (Optional Steps)
 
 Run this script to auto-generate all Hello World files:
 
@@ -150,7 +159,7 @@ cd ..
 
 ---
 
-## Push to GitHub (Optional)
+## Push to GitHub (Optional Steps)
 
 ```bash
 cd ~/Dev/hello-worlds-c-cpp-python-java
