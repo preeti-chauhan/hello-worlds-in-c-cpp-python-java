@@ -42,7 +42,7 @@ source ~/.zshrc
 
 Now, typing `dev` in your terminal will take you directly to the `~/Dev` directory.
 
-## Setup Conda Environment for Development
+## Setup Conda Environment for Development (Optional)
 
 Create and activate a Conda environment for the development tools:
 
