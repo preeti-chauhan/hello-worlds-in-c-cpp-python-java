@@ -128,6 +128,23 @@ cd ..
 
 ---
 
+## Push to GitHub (Optional)
+
+```bash
+cd ~/Dev/hello-worlds-c-cpp-python-java
+
+git init
+git add .
+git commit -m "Initial commit: Hello World in C, C++, Python, Java"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/hello-worlds-c-cpp-python-java.git
+git push -u origin main
+```
+
+> Replace `YOUR_USERNAME` with your actual GitHub username.
+
+---
+
 ## Quick Reference
 
 - C: clang hello.c -o hello && ./hello
