@@ -51,7 +51,7 @@ conda create -n dev_env
 conda activate dev_env
 ```
 
-Install what is required!
+$Install what is required!^*$
 
 ---
 
