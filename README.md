@@ -7,7 +7,7 @@
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 hello-worlds-c-cpp-python-java/
