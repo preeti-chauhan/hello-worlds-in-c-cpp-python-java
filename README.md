@@ -50,6 +50,9 @@ Create and activate a Conda environment for the development tools:
 conda create -n dev_env
 conda activate dev_env
 ```
+
+Install what is required!
+
 ---
 
 ## Setup Script (Optional Steps)
