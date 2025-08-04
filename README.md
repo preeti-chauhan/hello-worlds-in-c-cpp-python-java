@@ -167,11 +167,14 @@ All examples are simple, standalone programs designed to run on macOS with comma
 ---
 
 ## Note
+(built-in language support)
 
 | Paradigm        |   C  | C++ | Python | Java |
 | --------------- | :--: | :-: | :----: | :--: |
 | Procedural      |  ✔️  |  ✔️ |   ✔️   |  ✔️  |
 | Object-Oriented |   ❌  |  ✔️ |   ✔️   |  ✔️  |
+| Functional |   ❌  |  ✔️ |   ✔️   |  ✔️  |
+
 
 
 
